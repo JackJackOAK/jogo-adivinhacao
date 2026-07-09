@@ -1,0 +1,717 @@
+[
+  {
+    "id": "filmes-001",
+    "tema": "Filmes",
+    "resposta": "Titanic",
+    "dicas": [
+      "A história é inspirada em um acontecimento real.",
+      "Grande parte da trama acontece durante uma longa viagem.",
+      "O romance entre os protagonistas desafia diferenças sociais.",
+      "Uma joia muito valiosa também faz parte da história.",
+      "O cenário principal é um enorme meio de transporte.",
+      "O acidente acontece em águas extremamente frias.",
+      "Um iceberg muda o destino de todos os passageiros.",
+      "Jack e Rose vivem um romance inesquecível.",
+      "Leonardo DiCaprio interpreta um dos protagonistas.",
+      "O naufrágio do RMS Titanic é o centro da história."
+    ]
+  },
+  {
+    "id": "filmes-002",
+    "tema": "Filmes",
+    "resposta": "Jurassic Park",
+    "dicas": [
+      "Tudo começa com um projeto científico revolucionário.",
+      "Um parque promete uma experiência única aos visitantes.",
+      "Nem todos os sistemas funcionam como esperado.",
+      "Os visitantes ficam isolados em uma ilha.",
+      "Criaturas gigantes passam a representar um grande perigo.",
+      "A energia elétrica deixa de funcionar.",
+      "Os protagonistas precisam sobreviver até serem resgatados.",
+      "Um Tiranossauro Rex protagoniza uma das cenas mais famosas.",
+      "Os animais foram recriados usando DNA antigo.",
+      "Dinossauros vivos são a principal atração do parque."
+    ]
+  },
+  {
+    "id": "filmes-003",
+    "tema": "Filmes",
+    "resposta": "Toy Story",
+    "dicas": [
+      "Os protagonistas escondem um segredo dos humanos.",
+      "A amizade é um dos temas centrais.",
+      "A chegada de um novo personagem muda toda a dinâmica.",
+      "Um cowboy sente que está perdendo seu lugar.",
+      "Os personagens vivem aventuras quando ninguém está olhando.",
+      "Um patrulheiro espacial acredita ser um verdadeiro herói.",
+      "Woody e Buzz precisam trabalhar juntos.",
+      "Todos os protagonistas pertencem a um garoto chamado Andy.",
+      "Foi o primeiro longa-metragem totalmente animado por computador.",
+      "Os protagonistas são brinquedos que ganham vida."
+    ]
+  },
+  {
+    "id": "filmes-004",
+    "tema": "Filmes",
+    "resposta": "Harry Potter e a Pedra Filosofal",
+    "dicas": [
+      "O protagonista descobre que sua vida não era exatamente comum.",
+      "Uma carta muda completamente seu destino.",
+      "Ele passa a estudar em um lugar muito diferente.",
+      "Novos amigos o acompanham durante toda a aventura.",
+      "Existe um diretor muito respeitado e sábio.",
+      "O esporte mais popular envolve vassouras.",
+      "A escola se chama Hogwarts.",
+      "Hagrid apresenta esse novo mundo ao protagonista.",
+      "Voldemort representa a principal ameaça.",
+      "Harry Potter inicia sua jornada no mundo da magia."
+    ]
+  },
+  {
+    "id": "filmes-005",
+    "tema": "Filmes",
+    "resposta": "Vingadores: Ultimato",
+    "dicas": [
+      "Diversos heróis precisam trabalhar juntos.",
+      "Os acontecimentos continuam uma história iniciada anteriormente.",
+      "O universo sofreu perdas gigantescas.",
+      "Encontrar uma solução exige um plano improvável.",
+      "O tempo desempenha um papel fundamental.",
+      "Objetos extremamente poderosos são procurados.",
+      "Thanos continua sendo o maior inimigo.",
+      "Homem de Ferro toma uma decisão marcante.",
+      "Capitão América empunha um martelo muito famoso.",
+      "Os Vingadores tentam reverter o estalo de Thanos."
+    ]
+  },
+
+    {
+    "id": "filmes-006",
+    "tema": "Filmes",
+    "resposta": "De Volta para o Futuro",
+    "dicas": [
+      "Um relógio parado às 10h04 marca um momento decisivo na trama.",
+      "Um cientista excêntrico usa um cachorro chamado Einstein em seus experimentos.",
+      "A trilha sonora tem uma música composta pelo próprio protagonista, décadas antes de ela existir.",
+      "Um carro é o centro de toda a aventura, mas não pelo motivo que você imagina.",
+      "O protagonista precisa garantir que seus pais se conheçam, ou ele deixará de existir.",
+      "Uma bebida chamada Pepsi Free confunde um personagem em outra década.",
+      "A frase 'Estradas? Aonde vamos não precisamos de estradas' é icônica no filme.",
+      "1,21 gigawatts é a energia necessária para o evento principal.",
+      "Um DeLorean é modificado para alcançar 88 milhas por hora.",
+      "Viagens no tempo entre 1985 e 1955 movem toda a história."
+    ]
+  },
+  {
+    "id": "filmes-007",
+    "tema": "Filmes",
+    "resposta": "O Rei Leão",
+    "dicas": [
+      "Um babuíno sábio ergue um recém-nascido diante de todo o reino.",
+      "Um tio ambicioso deseja o trono para si mesmo.",
+      "A frase 'Hakuna Matata' resume a filosofia de dois personagens.",
+      "Um estouro de manada em um desfiladeiro muda o destino da família real.",
+      "O protagonista foge para o exílio carregando culpa pela morte do pai.",
+      "Um mandril e um javali adotam o herói ainda filhote.",
+      "As nuvens revelam a imagem do pai morto para guiar o filho.",
+      "A savana africana é o cenário de toda a disputa pelo poder.",
+      "Um filhote de leão é destinado a governar as Terras do Rei.",
+      "A história é ambientada entre leões e outros animais da savana africana."
+    ]
+  },
+  {
+    "id": "filmes-008",
+    "tema": "Filmes e Desenhos",
+    "resposta": "O Rei Leão",
+    "dicas": [
+      "A história acompanha o crescimento de um jovem herdeiro.",
+      "Um grande líder é admirado por todos.",
+      "Uma tragédia muda completamente o destino do protagonista.",
+      "Ele foge de casa por acreditar ser culpado.",
+      "Dois novos amigos ensinam uma filosofia de vida.",
+      "Um tio ambicioso assume o poder.",
+      "A história se passa na savana africana.",
+      "Hakuna Matata é uma frase muito importante.",
+      "Simba precisa enfrentar Scar.",
+      "O protagonista é um jovem leão destinado a ser rei."
+    ]
+  },
+  {
+    "id": "filmes-009",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Frozen",
+    "dicas": [
+      "Duas irmãs possuem uma relação complicada.",
+      "Um segredo é escondido desde a infância.",
+      "O inverno chega de forma inesperada.",
+      "Uma personagem prefere viver isolada.",
+      "Uma aventura acontece por montanhas geladas.",
+      "Um boneco de neve se torna um grande aliado.",
+      "Kristoff acompanha a protagonista.",
+      "Elsa possui um dom extraordinário.",
+      "A música principal tornou-se um fenômeno mundial.",
+      "Uma rainha cria gelo e neve com seus poderes."
+    ]
+  },
+  {
+    "id": "filmes-010",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Aladdin",
+    "dicas": [
+      "O protagonista sonha com uma vida melhor.",
+      "Grande parte da história acontece em uma cidade do deserto.",
+      "Um objeto muito antigo desperta interesse.",
+      "Um vilão deseja conquistar poder absoluto.",
+      "Uma princesa não aceita viver presa às regras.",
+      "Um macaco acompanha o protagonista.",
+      "Uma lâmpada muda completamente a história.",
+      "Um gênio realiza desejos.",
+      "Jafar é o principal antagonista.",
+      "Um jovem encontra uma lâmpada mágica."
+    ]
+  },
+  {
+    "id": "filmes-011",
+    "tema": "Filmes e Desenhos",
+    "resposta": "A Pequena Sereia",
+    "dicas": [
+      "A protagonista sonha em conhecer outro mundo.",
+      "Ela vive em um lugar muito diferente dos humanos.",
+      "Seu pai desaprova seus desejos.",
+      "Uma vilã faz uma proposta perigosa.",
+      "A personagem abre mão de algo muito importante.",
+      "Um príncipe desperta seu interesse.",
+      "Um caranguejo tenta ajudá-la.",
+      "Ela troca sua voz por uma oportunidade.",
+      "Úrsula é a grande vilã.",
+      "Uma sereia deseja viver em terra firme."
+    ]
+  },
+  {
+    "id": "filmes-012",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Moana",
+    "dicas": [
+      "A protagonista vive em uma ilha.",
+      "O oceano parece ajudá-la.",
+      "Seu povo depende da natureza.",
+      "Ela parte em uma longa viagem.",
+      "Um semideus acompanha sua missão.",
+      "Um anzol possui grande importância.",
+      "Te Fiti precisa recuperar algo perdido.",
+      "Maui é seu companheiro.",
+      "Ela atravessa o oceano para salvar seu povo.",
+      "Uma jovem navegadora é escolhida pelo mar."
+    ]
+  },
+  {
+    "id": "filmes-013",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Mulan",
+    "dicas": [
+      "A protagonista desafia antigas tradições.",
+      "Ela toma uma decisão para proteger sua família.",
+      "Grande parte da história envolve um conflito militar.",
+      "Ela esconde sua verdadeira identidade.",
+      "Um pequeno dragão a acompanha.",
+      "O treinamento é extremamente difícil.",
+      "Os invasores ameaçam o império.",
+      "Mushu é seu companheiro.",
+      "Ela ocupa o lugar de seu pai no exército.",
+      "Uma jovem se disfarça de homem para lutar."
+    ]
+  },
+  {
+    "id": "filmes-014",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Procurando Nemo",
+    "dicas": [
+      "Tudo começa após uma grande perda.",
+      "Um pai faz de tudo para proteger seu filho.",
+      "O protagonista enfrenta seus maiores medos.",
+      "Grande parte da aventura acontece em um ambiente azul.",
+      "Uma amiga tem problemas de memória.",
+      "Tubarões e tartarugas aparecem pelo caminho.",
+      "Sydney é um destino importante.",
+      "Dory acompanha toda a jornada.",
+      "O personagem desaparecido é um peixe-palhaço.",
+      "Um pai cruza o oceano procurando seu filho."
+    ]
+  },
+  {
+    "id": "filmes-015",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Monstros S.A.",
+    "dicas": [
+      "Os protagonistas trabalham em uma grande empresa.",
+      "Sua profissão depende de crianças.",
+      "Algo inesperado muda a rotina de todos.",
+      "Uma garotinha invade um lugar proibido.",
+      "As portas têm papel fundamental.",
+      "Um personagem grande é muito gentil.",
+      "Outro personagem é pequeno e falante.",
+      "Sulley e Mike formam uma dupla.",
+      "Energia é produzida por sustos.",
+      "Monstros entram nos quartos das crianças através dos armários."
+    ]
+  },
+  {
+    "id": "filmes-016",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Divertida Mente",
+    "dicas": [
+      "A história acontece principalmente em um lugar invisível.",
+      "Vários personagens trabalham juntos.",
+      "Cada um possui uma personalidade diferente.",
+      "Mudanças na vida da protagonista afetam todos.",
+      "As memórias possuem cores diferentes.",
+      "Uma emoção costuma assumir o controle.",
+      "Tristeza e Alegria precisam trabalhar juntas.",
+      "Tudo acontece dentro da mente de uma garota.",
+      "As emoções são os personagens principais.",
+      "Alegria, Tristeza, Raiva, Medo e Nojinho controlam uma criança."
+    ]
+  },
+  {
+    "id": "filmes-017",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Zootopia",
+    "dicas": [
+      "A história acontece em uma grande cidade.",
+      "Todos os habitantes pertencem a diferentes espécies.",
+      "Uma personagem sonha em exercer uma profissão incomum.",
+      "Ela faz dupla com alguém muito esperto.",
+      "Um caso misterioso precisa ser resolvido.",
+      "Preconceitos fazem parte da trama.",
+      "Uma coelha e uma raposa trabalham juntas.",
+      "Nick Wilde ajuda Judy Hopps.",
+      "A protagonista é a primeira policial de sua espécie.",
+      "Uma cidade é habitada apenas por animais."
+    ]
+  },
+  {
+    "id": "filmes-018",
+    "tema": "Filmes e Desenhos",
+    "resposta": "A Bela e a Fera",
+    "dicas": [
+      "Uma jovem ama livros.",
+      "Seu pai enfrenta problemas inesperados.",
+      "Um castelo guarda muitos segredos.",
+      "Objetos possuem vida própria.",
+      "Um feitiço mudou a aparência do protagonista.",
+      "Uma rosa é extremamente importante.",
+      "Lumière e Horloge ajudam os protagonistas.",
+      "O amor verdadeiro pode quebrar uma maldição.",
+      "A Fera precisa aprender a amar.",
+      "Uma princesa se apaixona por um príncipe amaldiçoado."
+    ]
+  },
+  {
+    "id": "filmes-019",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Encanto",
+    "dicas": [
+      "Toda a família possui habilidades especiais.",
+      "A protagonista parece ser diferente dos demais.",
+      "Uma casa possui vida própria.",
+      "Algo ameaça destruir a felicidade da família.",
+      "Cada membro possui um dom único.",
+      "A história acontece na Colômbia.",
+      "Uma música sobre um tio ficou muito famosa.",
+      "Mirabel tenta salvar sua família.",
+      "Bruno é um personagem importante.",
+      "Uma família vive em uma casa mágica."
+    ]
+  },
+  {
+    "id": "filmes-020",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Lilo & Stitch",
+    "dicas": [
+      "A protagonista vive em uma ilha.",
+      "Ela se sente muito solitária.",
+      "Um visitante inesperado muda sua vida.",
+      "A amizade transforma os personagens.",
+      "A palavra 'Ohana' tem grande significado.",
+      "O visitante não veio originalmente da Terra.",
+      "Nani cuida da irmã mais nova.",
+      "Stitch é resultado de um experimento.",
+      "A aventura acontece no Havaí.",
+      "Uma menina adota um alienígena como animal de estimação."
+    ]
+  },
+  {
+    "id": "filmes-021",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Pocahontas",
+    "dicas": [
+      "A protagonista vive em contato com a natureza.",
+      "Seu povo enfrenta a chegada de estrangeiros.",
+      "O diálogo entre culturas é um tema importante.",
+      "Ela segue os conselhos da natureza.",
+      "Um guaxinim está sempre por perto.",
+      "Um explorador muda sua forma de pensar.",
+      "A história é inspirada em uma personagem histórica.",
+      "John Smith é um dos protagonistas.",
+      "A música 'Cores do Vento' é marcante.",
+      "Uma indígena ensina respeito à natureza."
+    ]
+  },
+  {
+    "id": "filmes-022",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Peter Pan",
+    "dicas": [
+      "O protagonista nunca cresce.",
+      "Ele vive em um lugar muito especial.",
+      "As crianças podem voar.",
+      "Uma fada o acompanha.",
+      "Piratas representam um grande perigo.",
+      "Um crocodilo assusta o principal vilão.",
+      "Capitão Gancho busca vingança.",
+      "Terra do Nunca é o cenário principal.",
+      "Pó de fada permite voar.",
+      "Um menino eterno lidera os Garotos Perdidos."
+    ]
+  },
+  {
+    "id": "filmes-023",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Pinóquio",
+    "dicas": [
+      "O protagonista deseja realizar um grande sonho.",
+      "Foi criado por um artesão.",
+      "Recebe ajuda de uma figura mágica.",
+      "Precisa aprender importantes lições.",
+      "Um inseto tenta guiá-lo.",
+      "Suas escolhas têm consequências imediatas.",
+      "Seu nariz denuncia quando algo acontece.",
+      "Gepeto é seu criador.",
+      "Jiminy Cricket é sua consciência.",
+      "Um boneco de madeira deseja se tornar um menino de verdade."
+    ]
+  },
+  {
+    "id": "filmes-024",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Bambi",
+    "dicas": [
+      "A história acompanha o crescimento de um jovem personagem.",
+      "Grande parte da aventura acontece na natureza.",
+      "Novos amigos aparecem durante sua infância.",
+      "Uma grande perda muda sua vida.",
+      "Ele aprende a assumir responsabilidades.",
+      "O inverno faz parte da história.",
+      "Seu melhor amigo é um coelho.",
+      "O protagonista é um cervo.",
+      "Seu pai é respeitado por todos na floresta.",
+      "Um filhote aprende a se tornar o príncipe da floresta."
+    ]
+  },
+  {
+    "id": "filmes-025",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Os Incríveis",
+    "dicas": [
+      "Os protagonistas escondem suas verdadeiras habilidades.",
+      "Uma família precisa voltar à ação.",
+      "Cada integrante possui um talento diferente.",
+      "O vilão admira antigos heróis.",
+      "A identidade secreta é importante.",
+      "Um bebê surpreende a todos.",
+      "Síndrome é o principal antagonista.",
+      "Sr. Incrível e Mulher-Elástica lideram a família.",
+      "Todos possuem superpoderes.",
+      "Uma família inteira de super-heróis salva o mundo."
+    ]
+  },
+  {
+    "id": "filmes-026",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Ratatouille",
+    "dicas": [
+      "O protagonista possui um talento incomum.",
+      "Ele sonha em trabalhar em um lugar muito famoso.",
+      "Seu maior desafio é ser aceito.",
+      "Uma amizade improvável torna tudo possível.",
+      "A culinária é o centro da história.",
+      "Tudo acontece principalmente em Paris.",
+      "Um jovem cozinheiro recebe ajuda inesperada.",
+      "Gusteau inspira o protagonista.",
+      "O protagonista é um rato.",
+      "Um rato realiza o sonho de se tornar um grande chef."
+    ]
+  },
+  {
+    "id": "filmes-027",
+    "tema": "Filmes e Desenhos",
+    "resposta": "Wall-E",
+    "dicas": [
+      "O protagonista realiza sempre a mesma tarefa.",
+      "Ele vive praticamente sozinho.",
+      "Guarda objetos curiosos encontrados pelo caminho.",
+      "Um visitante muda completamente sua rotina.",
+      "A Terra já não é um bom lugar para viver.",
+      "Uma pequena planta possui enorme importância.",
+      "A história tem poucos diálogos no início.",
+      "EVA é a companheira do protagonista.",
+      "O protagonista é um robô.",
+      "Um robô compactador de lixo tenta salvar o futuro da humanidade."
+    ]
+  },  
+  {
+    "id": "series-001",
+    "tema": "Séries e TV",
+    "resposta": "Friends",
+    "dicas": [
+      "A história acompanha um grupo muito unido.",
+      "Grande parte das cenas acontece em uma grande cidade.",
+      "Um café é ponto de encontro frequente.",
+      "Relacionamentos amorosos fazem parte de quase todos os episódios.",
+      "São seis protagonistas.",
+      "Rachel, Monica e Phoebe fazem parte do grupo.",
+      "Ross, Chandler e Joey completam a turma.",
+      "A série se passa em Nova York.",
+      "A frase 'How you doin?' ficou mundialmente famosa.",
+      "Seis amigos vivem suas vidas entre apartamentos e o Central Perk."
+    ]
+  },
+  {
+    "id": "series-002",
+    "tema": "Séries e TV",
+    "resposta": "Stranger Things",
+    "dicas": [
+      "Tudo começa após um desaparecimento misterioso.",
+      "A história acontece em uma pequena cidade.",
+      "Crianças lideram boa parte da investigação.",
+      "Um laboratório guarda muitos segredos.",
+      "Eventos sobrenaturais passam a acontecer.",
+      "Existe uma dimensão paralela.",
+      "Uma garota possui poderes extraordinários.",
+      "Ela é conhecida por um número.",
+      "O Demogorgon é uma das criaturas mais perigosas.",
+      "Onze ajuda seus amigos a enfrentar o Mundo Invertido."
+    ]
+  },
+  {
+    "id": "series-003",
+    "tema": "Séries e TV",
+    "resposta": "Chaves",
+    "dicas": [
+      "Quase toda a história acontece em um mesmo local.",
+      "Os moradores vivem situações engraçadas diariamente.",
+      "Discussões entre vizinhos são frequentes.",
+      "Um personagem vive reclamando do aluguel.",
+      "Uma criança está sempre com fome.",
+      "Um barril se tornou um símbolo da série.",
+      "Seu Madruga e Dona Florinda vivem brigando.",
+      "O criador também interpreta o protagonista.",
+      "Foi um enorme sucesso na televisão brasileira.",
+      "Um menino órfão vive em uma vila muito famosa."
+    ]
+  },
+  {
+    "id": "series-004",
+    "tema": "Séries e TV",
+    "resposta": "Breaking Bad",
+    "dicas": [
+      "O protagonista decide mudar completamente sua vida.",
+      "Tudo começa após uma notícia muito difícil.",
+      "Ele utiliza conhecimentos profissionais para ganhar dinheiro.",
+      "Um ex-aluno torna-se seu parceiro.",
+      "Sua família desconhece suas atividades.",
+      "A polícia se aproxima cada vez mais.",
+      "A história envolve o tráfico de drogas.",
+      "Walter White é professor de química.",
+      "Jesse Pinkman é seu principal parceiro.",
+      "Um professor de química torna-se um dos maiores produtores de metanfetamina."
+    ]
+  },
+  {
+    "id": "series-005",
+    "tema": "Séries e TV",
+    "resposta": "Round 6",
+    "dicas": [
+      "Pessoas endividadas recebem um convite incomum.",
+      "Todas competem por um prêmio milionário.",
+      "Os participantes usam números em vez de nomes.",
+      "Guardas escondem seus rostos atrás de máscaras.",
+      "As provas parecem brincadeiras infantis.",
+      "Quem perde é eliminado de forma definitiva.",
+      "A série foi produzida na Coreia do Sul.",
+      "Batatinha Frita 1, 2, 3 aparece logo no início.",
+      "O prêmio ultrapassa 45 bilhões de wons.",
+      "Centenas de pessoas arriscam a vida em jogos infantis."
+    ]
+  },
+  {
+    "id": "pessoas-001",
+    "tema": "Pessoa Famosa",
+    "resposta": "Albert Einstein",
+    "dicas": [
+      "Seu trabalho revolucionou a ciência.",
+      "Era apaixonado por física.",
+      "Recebeu um Prêmio Nobel.",
+      "Suas teorias mudaram nossa compreensão do universo.",
+      "Seus cabelos ficaram tão famosos quanto suas descobertas.",
+      "Uma foto fazendo careta é conhecida no mundo inteiro.",
+      "Sua equação mais famosa possui apenas cinco caracteres.",
+      "A letra E aparece nessa equação.",
+      "A Teoria da Relatividade foi desenvolvida por ele.",
+      "É o autor da fórmula E = mc²."
+    ]
+  },
+  {
+    "id": "pessoas-002",
+    "tema": "Pessoa Famosa",
+    "resposta": "Homem-Aranha",
+    "dicas": [
+      "É um dos heróis mais populares do mundo.",
+      "Leva uma vida dupla.",
+      "Mora em uma grande cidade.",
+      "Recebeu habilidades após um acidente.",
+      "Aprendeu que grandes poderes trazem grandes responsabilidades.",
+      "Seu uniforme é vermelho e azul.",
+      "Escala paredes com facilidade.",
+      "Lança teias para se locomover.",
+      "Seu nome verdadeiro é Peter Parker.",
+      "Foi picado por uma aranha radioativa."
+    ]
+  },
+  {
+    "id": "pessoas-003",
+    "tema": "Pessoa Famosa",
+    "resposta": "Silvio Santos",
+    "dicas": [
+      "Construiu uma carreira de enorme sucesso na televisão.",
+      "Também foi um grande empresário.",
+      "Apresentava programas de auditório.",
+      "Seu carisma marcou gerações.",
+      "Era conhecido por distribuir prêmios.",
+      "Jogava aviõezinhos de dinheiro para a plateia.",
+      "Criou um dos maiores grupos de comunicação do Brasil.",
+      "Foi fundador do SBT.",
+      "Seu bordão 'Quem quer dinheiro?' ficou famoso.",
+      "É um dos maiores apresentadores da história da televisão brasileira."
+    ]
+  },
+  {
+    "id": "pessoas-004",
+    "tema": "Pessoa Famosa",
+    "resposta": "Batman",
+    "dicas": [
+      "É um personagem fictício.",
+      "Combate o crime sem possuir superpoderes.",
+      "Utiliza tecnologia de ponta.",
+      "É extremamente rico.",
+      "Age principalmente durante a noite.",
+      "Seu símbolo representa um animal.",
+      "Protege Gotham City.",
+      "Seu alter ego é Bruce Wayne.",
+      "Seu maior inimigo costuma ser o Coringa.",
+      "É conhecido como o Cavaleiro das Trevas."
+    ]
+  },
+  {
+    "id": "pessoas-005",
+    "tema": "Pessoa Famosa",
+    "resposta": "Ayrton Senna",
+    "dicas": [
+      "Foi um dos maiores esportistas brasileiros.",
+      "Competia em um esporte de alta velocidade.",
+      "Conquistou fãs em todo o mundo.",
+      "Representou o Brasil por muitos anos.",
+      "Venceu diversos Grandes Prêmios.",
+      "Foi tricampeão mundial.",
+      "Pilotou pela McLaren.",
+      "Competia na Fórmula 1.",
+      "Seu capacete amarelo tornou-se um símbolo.",
+      "É considerado um dos maiores pilotos da história da Fórmula 1."
+    ]
+  },
+  {
+    "id": "coisas-001",
+    "tema": "Coisas",
+    "resposta": "Sabre de Luz",
+    "dicas": [
+      "É um objeto fictício.",
+      "Representa habilidade e disciplina.",
+      "Poucos conseguem utilizá-lo corretamente.",
+      "Pode ter diferentes cores.",
+      "Produz um som inconfundível.",
+      "É usado em combates.",
+      "Está ligado aos Jedi e aos Sith.",
+      "Sua lâmina é feita de energia.",
+      "É uma das armas mais famosas do cinema.",
+      "É a arma característica de Star Wars."
+    ]
+  },
+  {
+    "id": "coisas-002",
+    "tema": "Coisas",
+    "resposta": "Um Anel",
+    "dicas": [
+      "É um objeto fictício.",
+      "Parece simples à primeira vista.",
+      "Desperta a ambição de muitas pessoas.",
+      "Exerce influência sobre quem o possui.",
+      "Foi criado por um grande vilão.",
+      "Possui inscrições ocultas.",
+      "Aparece na Terra Média.",
+      "Frodo precisa destruí-lo.",
+      "Foi forjado por Sauron.",
+      "É conhecido como o Um Anel."
+    ]
+  },
+  {
+    "id": "coisas-003",
+    "tema": "Coisas",
+    "resposta": "Cubo Mágico",
+    "dicas": [
+      "É um quebra-cabeça muito famoso.",
+      "Pode ser embaralhado milhares de vezes.",
+      "Exige estratégia e lógica.",
+      "Possui seis lados.",
+      "Cada lado deve terminar com uma única cor.",
+      "Competições internacionais utilizam esse objeto.",
+      "Foi criado por Ernő Rubik.",
+      "Também é chamado de Cubo de Rubik.",
+      "Seu formato é um cubo colorido.",
+      "O objetivo é alinhar todas as cores corretamente."
+    ]
+  },
+  {
+    "id": "coisas-004",
+    "tema": "Coisas",
+    "resposta": "Varinha Mágica",
+    "dicas": [
+      "É um objeto fictício.",
+      "É utilizada por pessoas com habilidades especiais.",
+      "Cada exemplar possui características únicas.",
+      "Ajuda a realizar feitos extraordinários.",
+      "Costuma ser feita de madeira.",
+      "Possui um núcleo muito importante.",
+      "É indispensável para lançar feitiços.",
+      "Aparece em diversas histórias de magia.",
+      "Harry Potter possui uma muito famosa.",
+      "É usada por bruxos para conjurar magia."
+    ]
+  },
+  {
+    "id": "coisas-005",
+    "tema": "Coisas",
+    "resposta": "Escudo do Capitão América",
+    "dicas": [
+      "É um objeto fictício.",
+      "Pertence a um herói muito conhecido.",
+      "É extremamente resistente.",
+      "Pode ser lançado contra os inimigos.",
+      "Seu formato é circular.",
+      "Retorna ao usuário quando bem utilizado.",
+      "É feito de vibranium.",
+      "Possui estrelas e círculos coloridos.",
+      "Steve Rogers é seu portador mais famoso.",
+      "É a arma característica do Capitão América."
+    ]
+  }
+]
