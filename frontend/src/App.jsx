@@ -132,7 +132,7 @@ export default function App() {
   if (!temaSelecionado) {
     return (
       <div className="tela">
-        <h1 className="titulo">Jogo de Adivinhação</h1>
+        <h1 className="titulo">Who is that?</h1>
         <p className="subtitulo">Escolha um tema para começar</p>
         {erro && <p className="erro">{erro}</p>}
         <div className="lista-temas">
@@ -144,6 +144,18 @@ export default function App() {
               {tema}
             </button>
           ))}
+        </div>
+        <div className="como-funciona">
+          <h3>Como funciona?</h3>
+          <ul>
+            <li>É necessário 2 ou mais jogadores.</li>
+            <li>O jogador que está com a carta deve ler as dicas para os outros jogadores.</li>
+            <li>Os outros jogadores devem tentar adivinhar a resposta com base nas dicas fornecidas.</li>
+            <li>Cada carta tem 10 dicas para ajudar os jogadores a adivinhar a resposta.</li>
+            <li>A pontuação é calculada com base no número de dicas utilizadas.</li>
+            <li>Se o jogador acertar na primeira dica, ele ganhará 10 pontos. Se acertar na segunda dica, ganhará 9 pontos, e assim por diante.</li>
+            <li>Caso o jogador desista da carta, ele pode solicitar para que seja trocada.</li>
+          </ul>
         </div>
       </div>
     );
