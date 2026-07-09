@@ -72,9 +72,3 @@ Abre em `http://localhost:5173` (padrão do Vite).
 ## Como adicionar mais cartas/temas
 
 Basta editar `backend/data/cartas.json` e acrescentar novos objetos, com um novo `tema` se quiser (ex: "Músicas", "Séries", "Personagens históricos"). O frontend já lista os temas dinamicamente.
-
-## Próximos passos possíveis
-- Persistir cartas usadas e pontuação entre sessões (localStorage ou banco de dados)
-- Modo "múltiplos times" com placar separado por time
-- Painel de administração para cadastrar cartas pela interface, em vez de editar o JSON à mão
-- Timer opcional por dica
