@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = "https://jogo-adivinhacao-backend.vercel.app/";
+const API_URL = "jogo-adivinhacao-backend.vercel.app";
 const MODO_ALEATORIO = "🎲 Aleatório";
 
 export default function App() {
